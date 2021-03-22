@@ -2,5 +2,8 @@
   "name": "example",
   "version": "1.0.0",
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@changesets/cli": "^2.14.1"
+  }
 }

@@ -1,0 +1,15 @@
+importers:
+  .:
+    specifiers: {}
+  packages/a:
+    dependencies:
+      '@example/b': link:../b
+      '@example/c': link:../c
+    specifiers:
+      '@example/b': ^1.0.0
+      '@example/c': ^1.0.0
+  packages/b:
+    specifiers: {}
+  packages/c:
+    specifiers: {}
+lockfileVersion: 5.2

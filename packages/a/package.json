@@ -1,0 +1,10 @@
+{
+  "name": "@example/a",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@example/b": "^1.0.0",
+    "@example/c": "^1.0.0"
+  }
+}

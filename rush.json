@@ -128,11 +128,13 @@
   "projects": [
     {
       "packageName": "@example/a",
-      "projectFolder": "packages/a"
+      "projectFolder": "packages/a",
+      "shouldPublish": true
     },
     {
       "packageName": "@example/b",
-      "projectFolder": "packages/b"
+      "projectFolder": "packages/b",
+      "shouldPublish": true
     }
   ],
   "repository": {

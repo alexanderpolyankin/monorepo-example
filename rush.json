@@ -137,6 +137,6 @@
   ],
   "repository": {
     "url": "git@github.com:alexanderpolyankin/monorepo-example.git",
-    "defaultBranch": "main"
+    "defaultBranch": "rush"
   }
 }

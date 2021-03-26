@@ -1,0 +1,23 @@
+dependencies:
+  '@rush-temp/a': file:projects/a.tgz
+  '@rush-temp/b': file:projects/b.tgz
+lockfileVersion: 5.2
+packages:
+  file:projects/a.tgz:
+    dev: false
+    name: '@rush-temp/a'
+    resolution:
+      integrity: sha512-bLKoiyJmWt0ssoRDzGkT/T+HIx0qx4T2KV/wYFPFZAOanvS7qjGSky3braRTgSFt2D6xkaCq07TusFFS+/B49g==
+      tarball: file:projects/a.tgz
+    version: 0.0.0
+  file:projects/b.tgz:
+    dev: false
+    name: '@rush-temp/b'
+    resolution:
+      integrity: sha512-2ZVdzwuN3pWKaTA7fiW2PvJiFFuTap/Sbh7/FjavGC3a6H3RBxF1I9/C9hNoX8yKRji/WY8qkHSVkJv+dwGiKQ==
+      tarball: file:projects/b.tgz
+    version: 0.0.0
+registry: ''
+specifiers:
+  '@rush-temp/a': file:./projects/a.tgz
+  '@rush-temp/b': file:./projects/b.tgz

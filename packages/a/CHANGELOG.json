@@ -1,0 +1,17 @@
+{
+  "name": "@example/a",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "tag": "@example/a_v1.0.0",
+      "date": "Fri, 26 Mar 2021 13:52:43 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@example/b\" from `^1.0.0` to `^1.1.0`"
+          }
+        ]
+      }
+    }
+  ]
+}

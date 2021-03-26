@@ -1,0 +1,17 @@
+{
+  "name": "@example/b",
+  "entries": [
+    {
+      "version": "1.1.0",
+      "tag": "@example/b_v1.1.0",
+      "date": "Fri, 26 Mar 2021 13:52:43 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Change the order of variables"
+          }
+        ]
+      }
+    }
+  ]
+}

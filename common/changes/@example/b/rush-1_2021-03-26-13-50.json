@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@example/b",
+      "comment": "Change the order of variables",
+      "type": "minor"
+    }
+  ],
+  "packageName": "@example/b",
+  "email": "alexander.polyankin@toptal.com"
+}
